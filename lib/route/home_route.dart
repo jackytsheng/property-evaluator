@@ -130,7 +130,7 @@ class HomeRoute extends StatelessWidget {
                                                       .textTheme
                                                       .titleMedium),
                                               Text(
-                                                  "Doing so will remove all notes related to these properties ! Are you sure you really want to delete ?",
+                                                  "Doing so will remove all notes related to these properties! Are you sure you really want to delete?",
                                                   style: Theme.of(context)
                                                       .textTheme
                                                       .bodySmall),
